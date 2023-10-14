@@ -2,15 +2,15 @@
 
 ## Contents
 
-- [Description] (#Description)
-- [Environment] (#Environment)
-- [Further Information] (#Furtherinformation)
-- [Requirements] (#Requirements)
-- [Repo Contents] (#FileContents)
-- [Installation] (#Installation)
-- [Usage] (#Usage)
-- [Built with] (#Built-with)
-- [Acknowledgements] (#Acknowledgements)
+- [Description](#Description)
+- [Environment](#Environment)
+- [Further Information](#Furtherinformation)
+- [Requirements](#Requirements)
+- [Repo Contents](#FileContents)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Built with](#Built-with)
+- [Acknowledgements](#Acknowledgements)
 
 ## Description
 
@@ -57,7 +57,9 @@ This repository constains the following files:
 ## Installation :hammer_and_wrench:
 
 Clone the repository and run the console.py
-``` $ git clone https://github.com/------/AirBnB_clone.git ```
+```
+$ git clone https://github.com/------/AirBnB_clone.git
+```
 
 ## Usage :wrench:
 
@@ -123,7 +125,8 @@ e6ee5344-04ef-454d-84e4-ba6fc613f1b4
 
 ## Built with
 
-python3 (3.4.3)
+Python Scripts are written with Python 3.8.9
+Tested on Ubuntu 20.04 LTS
 
 ### Version
 
