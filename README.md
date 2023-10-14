@@ -10,7 +10,6 @@
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Built with](#Built-with)
-- [Acknowledgements](#Acknowledgements)
 
 ## Description
 
@@ -54,14 +53,14 @@ This repository constains the following files:
 |[test_file_storage.py](./tests/test_models/test_engine/test_file_storage.py) | unittests for file_storage |
 |[test_console.py](./tests/test_console.py) | unittests for console |
 
-## Installation :hammer_and_wrench:
+## Installation
 
 Clone the repository and run the console.py
 ```
 $ git clone https://github.com/------/AirBnB_clone.git
 ```
 
-## Usage :wrench:
+## Usage
 
 |   **Method**   |   **Description**   |
 | -------------- | --------------------- |
@@ -134,4 +133,4 @@ HBnB - version 1.0
 
 ### Author
 
-* Will Meilahn - @WillMeilahn
+Will Meilahn - @WillMeilahn
