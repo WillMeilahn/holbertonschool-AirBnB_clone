@@ -20,7 +20,6 @@
 
 .filters button {
 	position: absolute;
-
 	font-size: 18px;
 	background-color: #FF5A5F;
 	color: #ffffff;
@@ -30,8 +29,6 @@
 	margin-right: 30px;
 	border-radius: 4%;
 	right: 0;
-
-
 }
 
 .filters button:hover {
@@ -41,17 +38,14 @@
 .filters .locations {
 	display: flex;
 	justify-content: center;
-
 	margin-left: 4px;
 	text-align: left;
 	flex-direction: column;
-
 	padding: 4px;
 	vertical-align: center;
 	height: 100%;
 	width: 25%;
 	gap: 0.5rem;
-
 }
 
 .filters .locations h3 {
@@ -67,5 +61,4 @@
 
 .filters div:first-child {
 	border-right: 1px solid #DDDDDD;
-
 }

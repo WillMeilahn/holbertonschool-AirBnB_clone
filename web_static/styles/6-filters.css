@@ -19,12 +19,10 @@ ul {
 	width: 100%;
 	border: 1px solid #DDDDDD;
 	border-radius: 4px;
-
 }
 
 .filters button {
 	position: absolute;
-
 	font-size: 18px;
 	background-color: #FF5A5F;
 	color: #ffffff;
@@ -34,8 +32,6 @@ ul {
 	margin-right: 30px;
 	border-radius: 4%;
 	right: 0;
-
-
 }
 
 .filters button:hover {
@@ -45,17 +41,13 @@ ul {
 .filters .locations {
 	display: flex;
 	justify-content: center;
-
 	margin-left: 4px;
 	text-align: left;
 	flex-direction: column;
-
 	padding: 4px;
 	vertical-align: center;
 	height: 100%;
 	width: 25%;
-
-
 }
 
 .filters .locations h3 {
@@ -78,8 +70,6 @@ ul {
 	border: 1px solid #DDDDDD;
 }
 
-
-
 .filters .popover ul ul {
 	margin: 10px;
 }
@@ -99,17 +89,13 @@ ul {
 .filters .amenities {
 	display: flex;
 	justify-content: center;
-
 	margin-left: 4px;
 	text-align: left;
 	flex-direction: column;
-
 	padding: 4px;
 	vertical-align: center;
 	height: 100%;
 	width: 25%;
-
-
 }
 
 .filters .amenities h3 {
@@ -125,5 +111,4 @@ ul {
 
 .filters div:first-child {
 	border-right: 1px solid #DDDDDD;
-
 }
