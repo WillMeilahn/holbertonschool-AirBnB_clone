@@ -17,7 +17,7 @@ This is the first phase of a four-phase project to create a basic clone of the A
 
 ## Environment
 
-The console was developed in Ubuntu 14.04LTS using python3 (version 3.4.3).
+The console was developed in Ubuntu 20.04 LTS using python3 (version 3.4.3).
 
 ### Further information
 
@@ -25,7 +25,7 @@ For further information on the Python version and documentation, visit [python.o
 
 ## Requirements
 
-Knowledge in python3, how to use a command line interpreter, a computer with Ubuntu 14.04, python3, and pep8 style corrector.
+Knowledge in python3, how to use a command line interpreter, a computer with Ubuntu 20.04 LTS, python3, and pep8 style corrector.
 
 ## Repo Contents
 
